@@ -5,7 +5,7 @@
 
 - 🇨🇳 Chinese
 - 🔭 I’m currently working on Fintech and Blockchain
-- 🌱 I’m currently learning Consensus Algorithms and Virtual Machine technologies of Smart Contract
+- 🌱 I’m currently focus on Consensus Algorithms and Virtual Machine technologies of Smart Contract
 - 📫 How to reach me: terasum@163.com
 - ⚡ Fun fact: Go, Java, Python, JavaScript
 
