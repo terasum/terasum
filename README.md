@@ -1,7 +1,8 @@
 ### Hi there, I'm Chen Quan 🎉
 
 
-- 🇨🇳 Chinese
-- 🔭 I’m currently working on Fintech
+- GTM +8
+- AI Involver
+- Golang, Python, JavaScript
 - 📫 How to reach me: terasum@163.com
 - ⚡ Fun fact: Go, Java, Python, JavaScript
